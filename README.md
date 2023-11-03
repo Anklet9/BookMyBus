@@ -5,14 +5,29 @@ Book My Bus is a dynamic bus reservation platform offering a suite of features t
 
 ## Table of Contents
 - [Features](#features)
-  - [Bus Management](#bus-management)
-  - [Route Management](#route-management)
-  - [Feedback Management](#feedback-management)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [API Documentation](#api-documentation)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
+## Features
+- Add, update, and delete bus details such as name, type, driver information, and more.
+- Define routes with departure and arrival locations, distance, and associated buses.
+- Manage user feedback for specific buses, including ratings and comments.
+- View active, deleted, and user-specific feedbacks.
+- Pagination support for viewing a specific number of feedbacks per page.
+
+## Getting Started
+
+To run the Bus Management System on your local machine, follow these steps:
+
+### Prerequisites
+- Java Development Kit (JDK) 8 or later
+- Maven
+- MySQL database
+
+### Installation
+1. Clone the repository: git clone https://github.com/Anklet9/BookMyBus.git
