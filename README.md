@@ -31,3 +31,10 @@ To run the Bus Management System on your local machine, follow these steps:
 
 ### Installation
 1. Clone the repository: git clone https://github.com/Anklet9/BookMyBus.git
+2. Navigate to the project directory:
+3. Configure the MySQL database:
+- Create a new MySQL database named.
+- Update the database configuration in `src/main/resources/application.properties` with your MySQL connection details.
+4. Build the project:
+5. Run the application:
+
